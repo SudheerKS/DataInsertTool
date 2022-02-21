@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataInsertTool", "DataInsertTool.csproj", "{CE7B6000-063A-4383-BB17-F56A817001C6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DSS.Customers", "..\DSS.Customers\DSS.Customers.csproj", "{A7FE596E-2F6A-423F-93B6-B4B3CFA3F144}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE7B6000-063A-4383-BB17-F56A817001C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE7B6000-063A-4383-BB17-F56A817001C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE7B6000-063A-4383-BB17-F56A817001C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE7B6000-063A-4383-BB17-F56A817001C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7FE596E-2F6A-423F-93B6-B4B3CFA3F144}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7FE596E-2F6A-423F-93B6-B4B3CFA3F144}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7FE596E-2F6A-423F-93B6-B4B3CFA3F144}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7FE596E-2F6A-423F-93B6-B4B3CFA3F144}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23E5CB73-B05B-40AD-91B6-4B6D672D2327}
+	EndGlobalSection
+EndGlobal
